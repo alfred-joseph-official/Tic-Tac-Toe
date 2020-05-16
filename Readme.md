@@ -1,4 +1,4 @@
-## Tic-Tac-Toe
+# Tic-Tac-Toe
 
 ## Table of contents
 * [General info](#general-info)
